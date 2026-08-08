@@ -1,0 +1,6 @@
+weaviate-client>=4.0.0
+openai>=1.0.0
+arize-phoenix
+pandas
+numpy
+python-dotenv
