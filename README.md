@@ -15,8 +15,8 @@ The chatbot answers two distinct kinds of customer queries against a real knowle
 
 ```
 notebooks/
-├── C1M4_Assignment.ipynb   # Build: routing, FAQ RAG, product RAG
-└── C1M5_Assignment.ipynb   # Optimize: cost analysis, prompt tuning, tracing
+├── RAG1.ipynb   # Build: routing, FAQ RAG, product RAG
+└── RAG2.ipynb   # Optimize: cost analysis, prompt tuning, tracing
 ```
 
 ## Requirements
